@@ -55,7 +55,7 @@
 										)
 										.forEach(
 											(node) =>
-												(node.innerHTML = input.value),
+												(node.textContent = input.value),
 										)
 								}
 							},
