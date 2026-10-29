@@ -41,7 +41,7 @@
 						note.classList.add('anduril_note-pill')
 						note.dataset.username = username
 						note.style.background = displayNameElement.style.color
-						note.innerHTML = `${notes[username]}`
+						note.textContent = notes[username]
 
 						displayNameElement.parentElement.insertBefore(
 							note,
