@@ -11,8 +11,6 @@
     ·
     <a href="#features">Features</a>
     ·
-    <a href="#comparison">Comparison</a>
-    ·
     <a href="#suggestions-and-contributions">Suggestions & Contributions</a>
 </p>
 
