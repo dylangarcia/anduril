@@ -1,1 +1,3 @@
 Scratch notes — uncommitted test change.
+Second change, made after the commit (not committed).
+Third change (also not committed).
