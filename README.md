@@ -2,6 +2,8 @@
 
 <h2 align="center">Anduril</h2>
 
+<p align="center">hi</p>
+
 <p align="center">A Chrome extension which adds useful features to the Twitch UI, aimed at moderators and streamers.</p>
 
 <p align="center">
